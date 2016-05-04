@@ -1,2 +1,2 @@
-# hello world
+# hello
 This is a thing
