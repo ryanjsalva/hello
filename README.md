@@ -1,4 +1,2 @@
-# hello
+# hello B
 This is a thing
-
-B
