@@ -1,2 +1,2 @@
-# hello A
+# hello new thing
 This is a thing
