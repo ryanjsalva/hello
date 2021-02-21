@@ -1,2 +1,2 @@
-# hello master
+# hello new thing
 This is a thing
